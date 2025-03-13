@@ -10,7 +10,9 @@ namespace HelloWorld //namespace 패키지 같은 거
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("안녕, 세상아?!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("こんにちは、世界");
         }
     }
 }
